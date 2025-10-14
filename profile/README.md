@@ -1,6 +1,7 @@
 
-<h1 align="center">Hello! I'm Camuise.</h1>
-<h3 align="center">A guy who thinks he's competent at programming</h3>
+<h1 align="center">Hello! I'm Issac.</h1>
+<p align="center">(also known as Camuise)</p>
+<h3 align="center">I'm a guy who thinks he's decent at programming.</h3>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=marcus5408&label=Profile%20views&color=0e75b6&style=flat" alt="marcus5408">
 </p>

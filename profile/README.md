@@ -59,6 +59,6 @@
         </a>
     </p>
     <p align="center">
-        <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=321&api_domain=hackatime.hackclub.com&theme=dracula&custom_title=My+Languages&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" />
+        <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=321&api_domain=hackatime.hackclub.com&theme=dracula&custom_title=My+Most+Used+Languages&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" />
     </p>
 </h3>
